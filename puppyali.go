@@ -5,11 +5,11 @@ import (
 )
 
 func Bark() string {
-	return "woof!"
+	return "waaaagh!"
 }
 
 func Barcks() string {
-	return "woof woof woof!"
+	return "waaaagh waaaagh waaaagh!"
 }
 
 func BigBarck() string {
